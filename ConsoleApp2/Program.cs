@@ -6,20 +6,9 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+            // Removing tons of duplicates and then seeing stashing
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-            
-            
-           Console.WriteLine("Hello broh!");
-           Console.WriteLine("Hello World!");
-           Console.WriteLine("Hello World!");
-           Console.WriteLine("Hello World!");
-        
-            
+            Console.WriteLine("Hello broh!");        
         }
     }
 }
